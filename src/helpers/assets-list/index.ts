@@ -318,8 +318,8 @@ export const assetsList: Asset[] = [
     name: 'Fantom',
     symbol: 'GFTM',
     color: '#ff7600',
-    icon: icons.apax,
-    aIcon: aIcons.apax,
+    icon: icons.ftm,
+    aIcon: aIcons.ftm,
   },
 
   // uniswap v1 market
