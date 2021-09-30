@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "license": "",
   "description": "",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "name": "geist-ui-kit",
-  "module": "dist/aave-ui-kit.esm.js",
+  "module": "dist/geist-ui-kit.esm.js",
   "repository": {
     "type": "git",
     "url": "git@githab.com:seokjinkimph0/geist-ui-kit.git"
