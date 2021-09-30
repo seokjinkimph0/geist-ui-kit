@@ -6,7 +6,7 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "name": "geist-ui-kit",
-  "module": "dist/geist-ui-kit.esm.js",
+  "module": "dist/aave-ui-kit.esm.js",
   "repository": {
     "type": "git",
     "url": "git@githab.com:seokjinkimph0/geist-ui-kit.git"
@@ -73,9 +73,7 @@
     "typescript": "^4.1.3"
   },
   "husky": {
-    "hooks": {
-      "pre-commit": "tsdx lint & lint-staged"
-    }
+    "hooks": {}
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [

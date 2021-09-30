@@ -57,6 +57,20 @@ export const assetsList: Asset[] = [
     aIcon: aIcons.aeth,
   },
   {
+    name: 'DAI',
+    symbol: 'GDAI',
+    color: '#f7b14a',
+    icon: icons.dai,
+    aIcon: aIcons.adai,
+  },
+  {
+    name: 'Ethereum',
+    symbol: 'GETH',
+    color: '#000000',
+    icon: icons.eth,
+    aIcon: aIcons.aeth,
+  },
+  {
     name: 'Wrapped ETH',
     symbol: 'WETH',
     color: '#000000',
@@ -141,6 +155,13 @@ export const assetsList: Asset[] = [
     aIcon: aIcons.ausdc,
   },
   {
+    name: 'USD Coin',
+    symbol: 'GUSDC',
+    color: '#2775ca',
+    icon: icons.usdc,
+    aIcon: aIcons.ausdc,
+  },
+  {
     name: 'USDT Coin',
     symbol: 'USDT',
     color: '#4db196',
@@ -148,8 +169,22 @@ export const assetsList: Asset[] = [
     aIcon: aIcons.ausdt,
   },
   {
+    name: 'USDT Coin',
+    symbol: 'GFUSDT',
+    color: '#4db196',
+    icon: icons.usdt,
+    aIcon: aIcons.ausdt,
+  },
+  {
     name: 'WBTC Coin',
     symbol: 'WBTC',
+    color: '#ff7600',
+    icon: icons.wbtc,
+    aIcon: aIcons.awbtc,
+  },
+  {
+    name: 'WBTC Coin',
+    symbol: 'GWBTC',
     color: '#ff7600',
     icon: icons.wbtc,
     aIcon: aIcons.awbtc,
@@ -278,6 +313,13 @@ export const assetsList: Asset[] = [
     color: '#22996E',
     icon: icons.fei,
     aIcon: aIcons.fei,
+  },
+  {
+    name: 'Fantom',
+    symbol: 'GFTM',
+    color: '#ff7600',
+    icon: icons.apax,
+    aIcon: aIcons.apax,
   },
 
   // uniswap v1 market
