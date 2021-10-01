@@ -37,6 +37,8 @@ import afrax from './afrax.svg';
 import afei from './afei.svg';
 import ausdp from './ausdp.svg';
 import aftm from './aftm.svg';
+import ageist from './ageist.svg';
+import ageist2 from './ageist2.svg';
 
 interface Images {
   [name: string]: string;
@@ -82,4 +84,6 @@ export default {
   afei,
   ausdp,
   aftm,
+  ageist,
+  ageist2,
 } as Images;

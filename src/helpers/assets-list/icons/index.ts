@@ -42,6 +42,7 @@ import frax from './frax.svg';
 import fei from './fei.svg';
 import usdp from './usdp.svg';
 import ftm from './ftm.svg';
+import geist from './geist.svg';
 
 interface Images {
   [name: string]: string;
@@ -92,4 +93,5 @@ export default {
   fei,
   usdp,
   ftm,
+  geist,
 } as Images;

@@ -321,6 +321,13 @@ export const assetsList: Asset[] = [
     icon: icons.ftm,
     aIcon: aIcons.ftm,
   },
+  {
+    name: 'Geist Protocol',
+    symbol: 'GEIST',
+    color: '#A7FF58',
+    icon: icons.geist,
+    aIcon: aIcons.geist,
+  },
 
   // uniswap v1 market
   {
