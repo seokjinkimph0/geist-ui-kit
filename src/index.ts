@@ -25,6 +25,7 @@ import LabeledSwitch from './components/LabeledSwitch';
 import SpinLoader from './components/SpinLoader';
 import SocialIcons, { SocialType, SocialIcon } from './components/SocialIcons';
 import DarkModeSwitcher from './components/DarkModeSwitcher';
+import ValueButton from './components/ValueButton';
 
 export {
   Asset,
@@ -51,6 +52,7 @@ export {
   Switcher,
   DropdownWrapper,
   Button,
+  ValueButton,
   LabeledSwitch,
   SpinLoader,
   SocialIcons,
