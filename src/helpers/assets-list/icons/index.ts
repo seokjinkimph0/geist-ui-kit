@@ -43,6 +43,7 @@ import fei from './fei.svg';
 import usdp from './usdp.svg';
 import ftm from './ftm.svg';
 import geist from './geist.svg';
+import gflp from './gflp.svg';
 
 interface Images {
   [name: string]: string;
@@ -94,4 +95,5 @@ export default {
   usdp,
   ftm,
   geist,
+  gflp,
 } as Images;
