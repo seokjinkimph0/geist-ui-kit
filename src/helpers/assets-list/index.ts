@@ -148,6 +148,13 @@ export const assetsList: Asset[] = [
     aIcon: aIcons.ausdt,
   },
   {
+    name: 'USDT Coin',
+    symbol: 'FUSDT',
+    color: '#4db196',
+    icon: icons.usdt,
+    aIcon: aIcons.ausdt,
+  },
+  {
     name: 'WBTC Coin',
     symbol: 'WBTC',
     color: '#ff7600',
