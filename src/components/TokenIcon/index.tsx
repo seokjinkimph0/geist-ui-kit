@@ -79,7 +79,9 @@ export default function TokenIcon({
         <p className="TokenIcon__name">
           <b>{tokenFullName}</b>
           {color && <span className="TokenIcon__color-dot" style={{ backgroundColor: color }} />}
-          {withTokenSymbol && displayedTokenSymbol && <span> ({displayedTokenSymbol})</span>}
+          {withTokenSymbol && displayedTokenSymbol && (
+            <span> ({displayedTokenSymbol === 'FTM' ? 'WFTM' : displayedTokenSymbol})</span>
+          )}
         </p>
       )}
     </div>
