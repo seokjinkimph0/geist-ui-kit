@@ -294,6 +294,13 @@ export const assetsList: Asset[] = [
     aIcon: aIcons.ftm,
   },
   {
+    name: 'Fantom',
+    symbol: 'WFTM',
+    color: '#ff7600',
+    icon: icons.ftm,
+    aIcon: aIcons.ftm,
+  },
+  {
     name: 'Geist Protocol',
     symbol: 'GEIST',
     color: '#A7FF58',
