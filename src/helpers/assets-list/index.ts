@@ -335,6 +335,13 @@ export const assetsList: Asset[] = [
     icon: icons.gflp,
     aIcon: aIcons.gflp,
   },
+  {
+    name: 'GEIST/FTM LP',
+    symbol: 'GEIST/FTM',
+    color: '#57B3E4',
+    icon: icons.gflp,
+    aIcon: aIcons.gflp,
+  },
 
   // uniswap v1 market
   {
