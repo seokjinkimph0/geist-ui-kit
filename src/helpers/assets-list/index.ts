@@ -287,7 +287,7 @@ export const assetsList: Asset[] = [
     aIcon: aIcons.fei,
   },
   {
-    name: 'Wrapped Fantom',
+    name: 'Fantom',
     symbol: 'FTM',
     color: '#ff7600',
     icon: icons.ftm,
