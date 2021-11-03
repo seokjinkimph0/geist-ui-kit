@@ -39,6 +39,7 @@ import ausdp from './ausdp.svg';
 import aftm from './aftm.svg';
 import ageist from './ageist.svg';
 import agflp from './agflp.svg';
+import ablizzavaxlp from './ablizzavaxlp.svg';
 
 interface Images {
   [name: string]: string;
@@ -86,4 +87,5 @@ export default {
   aftm,
   ageist,
   agflp,
+  ablizzavaxlp,
 } as Images;

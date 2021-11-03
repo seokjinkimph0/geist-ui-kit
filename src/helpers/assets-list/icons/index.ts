@@ -44,6 +44,7 @@ import usdp from './usdp.svg';
 import ftm from './ftm.svg';
 import geist from './geist.svg';
 import gflp from './gflp.svg';
+import blizzavaxlp from './blizzavaxlp.svg';
 
 interface Images {
   [name: string]: string;
@@ -96,4 +97,5 @@ export default {
   ftm,
   geist,
   gflp,
+  blizzavaxlp,
 } as Images;

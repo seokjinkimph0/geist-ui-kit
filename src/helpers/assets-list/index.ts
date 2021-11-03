@@ -321,6 +321,13 @@ export const assetsList: Asset[] = [
     icon: icons.gflp,
     aIcon: aIcons.gflp,
   },
+  {
+    name: 'BLIZZ/AVAX LP',
+    symbol: 'BLIZZAVAX',
+    color: '#9534FF',
+    icon: icons.blizzavaxlp,
+    aIcon: aIcons.blizzavaxlp,
+  },
 
   // uniswap v1 market
   {
