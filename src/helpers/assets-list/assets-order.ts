@@ -1,7 +1,7 @@
 // eslint-disable-next-line import/prefer-default-export
 export const assetsOrder = [
-  'BLIZZ',
-  'BLIZZAVAX',
+  'BLZZ',
+  'BLZZAVAX',
   'GEIST',
   'FTM',
   'GEIST-FTM-LP',
