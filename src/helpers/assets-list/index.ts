@@ -336,6 +336,50 @@ export const assetsList: Asset[] = [
     aIcon: aIcons.blizz,
   },
 
+  // bTokens
+  {
+    name: 'bAVAX',
+    symbol: 'bAVAX',
+    color: '#2bbdf7',
+    icon: icons.bavax,
+    aIcon: icons.bavax,
+  },
+  {
+    name: 'bDAI',
+    symbol: 'bDAI',
+    color: '#f7b14a',
+    icon: icons.bdai,
+    aIcon: icons.bdai,
+  },
+  {
+    name: 'bUSDC',
+    symbol: 'bUSDC',
+    color: '#2775ca',
+    icon: icons.busdc,
+    aIcon: icons.busdc,
+  },
+  {
+    name: 'bUSDT',
+    symbol: 'bUSDT',
+    color: '#4db196',
+    icon: icons.busdt,
+    aIcon: icons.busdt,
+  },
+  {
+    name: 'bWBTC',
+    symbol: 'bWBTC',
+    color: '#ff7600',
+    icon: icons.bwbtc,
+    aIcon: icons.bwbtc,
+  },
+  {
+    name: 'bWETH',
+    symbol: 'bWETH',
+    color: '#000000',
+    icon: icons.bweth,
+    aIcon: icons.bweth,
+  },
+
   // uniswap v1 market
   {
     name: 'DAI',

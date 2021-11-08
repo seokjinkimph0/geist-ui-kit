@@ -46,6 +46,12 @@ import geist from './geist.svg';
 import gflp from './gflp.svg';
 import blizzavaxlp from './blizzavaxlp.svg';
 import blizz from './blizz.svg';
+import bavax from './bAVAX.svg';
+import bdai from './bDAI.svg';
+import busdc from './bUSDC.svg';
+import busdt from './bUSDT.svg';
+import bwbtc from './bWBTC.svg';
+import bweth from './bWETH.svg';
 
 interface Images {
   [name: string]: string;
@@ -100,4 +106,10 @@ export default {
   gflp,
   blizzavaxlp,
   blizz,
+  bavax,
+  bdai,
+  busdc,
+  busdt,
+  bwbtc,
+  bweth,
 } as Images;

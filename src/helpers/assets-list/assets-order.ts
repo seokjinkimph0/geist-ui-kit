@@ -54,6 +54,13 @@ export const assetsOrder = [
   'GFUSDT',
   'GUSDC',
 
+  'bDAI',
+  'bETH',
+  'bFTM',
+  'bWBTC',
+  'bFUSDT',
+  'bUSDC',
+
   'UNIDAIUSDC',
   'UNIUSDCDAI',
   'UNIWBTCUSDC',
