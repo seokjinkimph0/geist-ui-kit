@@ -346,7 +346,7 @@ export const assetsList: Asset[] = [
   },
   {
     name: 'bDAI',
-    symbol: 'bDAI',
+    symbol: 'BDAI',
     color: '#f7b14a',
     icon: icons.bdai,
     aIcon: icons.bdai,
