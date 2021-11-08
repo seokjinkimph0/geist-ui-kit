@@ -339,7 +339,7 @@ export const assetsList: Asset[] = [
   // bTokens
   {
     name: 'bAVAX',
-    symbol: 'bAVAX',
+    symbol: 'BAVAX',
     color: '#2bbdf7',
     icon: icons.bavax,
     aIcon: icons.bavax,
@@ -353,28 +353,28 @@ export const assetsList: Asset[] = [
   },
   {
     name: 'bUSDC',
-    symbol: 'bUSDC',
+    symbol: 'BUSDC',
     color: '#2775ca',
     icon: icons.busdc,
     aIcon: icons.busdc,
   },
   {
     name: 'bUSDT',
-    symbol: 'bUSDT',
+    symbol: 'BUSDT',
     color: '#4db196',
     icon: icons.busdt,
     aIcon: icons.busdt,
   },
   {
     name: 'bWBTC',
-    symbol: 'bWBTC',
+    symbol: 'BWBTC',
     color: '#ff7600',
     icon: icons.bwbtc,
     aIcon: icons.bwbtc,
   },
   {
     name: 'bWETH',
-    symbol: 'bWETH',
+    symbol: 'BWETH',
     color: '#000000',
     icon: icons.bweth,
     aIcon: icons.bweth,
