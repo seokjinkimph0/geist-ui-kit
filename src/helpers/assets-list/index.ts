@@ -289,14 +289,14 @@ export const assetsList: Asset[] = [
   {
     name: 'Fantom',
     symbol: 'FTM',
-    color: '#ff7600',
+    color: '#57B3E4',
     icon: icons.ftm,
     aIcon: aIcons.ftm,
   },
   {
     name: 'Fantom',
     symbol: 'WFTM',
-    color: '#ff7600',
+    color: '#57B3E4',
     icon: icons.ftm,
     aIcon: aIcons.ftm,
   },
@@ -324,7 +324,7 @@ export const assetsList: Asset[] = [
   {
     name: 'BLZZ/AVAX LP',
     symbol: 'BLZZAVAX',
-    color: '#9534FF',
+    color: '#E84142',
     icon: icons.blizzavaxlp,
     aIcon: aIcons.blizzavaxlp,
   },
@@ -340,7 +340,7 @@ export const assetsList: Asset[] = [
   {
     name: 'bAVAX',
     symbol: 'BAVAX',
-    color: '#2bbdf7',
+    color: '#E84142',
     icon: icons.bavax,
     aIcon: icons.bavax,
   },
@@ -570,14 +570,14 @@ export const assetsList: Asset[] = [
   {
     name: 'Avalanche',
     symbol: 'AVAX',
-    color: '#2bbdf7',
+    color: '#E84142',
     icon: icons.avax,
     aIcon: aIcons.aavax, // TODO: create new aAvax svg
   },
   {
     name: 'Wrapped Avalanche',
     symbol: 'WAVAX',
-    color: '#2bbdf7',
+    color: '#E84142',
     icon: icons.wavax,
   },
 ];
