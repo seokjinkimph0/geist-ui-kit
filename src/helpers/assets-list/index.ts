@@ -309,14 +309,7 @@ export const assetsList: Asset[] = [
   },
   {
     name: 'GEIST/FTM LP',
-    symbol: 'GEIST-FTM-LP',
-    color: '#57B3E4',
-    icon: icons.gflp,
-    aIcon: aIcons.gflp,
-  },
-  {
-    name: 'GEIST/FTM LP',
-    symbol: 'GEIST/FTM',
+    symbol: 'GEISTFTM',
     color: '#57B3E4',
     icon: icons.gflp,
     aIcon: aIcons.gflp,

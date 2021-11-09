@@ -4,7 +4,7 @@ export const assetsOrder = [
   'BLZZAVAX',
   'GEIST',
   'FTM',
-  'GEIST-FTM-LP',
+  'GEISTFTM',
   'MATIC',
   'WMATIC',
   'DAI',
