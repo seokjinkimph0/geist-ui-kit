@@ -378,8 +378,8 @@ export const assetsList: Asset[] = [
     name: 'gFTM',
     symbol: 'GFTM',
     color: '#57B3E4',
-    icon: icons.bftm,
-    aIcon: icons.bftm,
+    icon: icons.gftm,
+    aIcon: icons.gftm,
   },
   {
     name: 'gDAI',
@@ -410,8 +410,8 @@ export const assetsList: Asset[] = [
     aIcon: icons.gwbtc,
   },
   {
-    name: 'gWETH',
-    symbol: 'GWETH',
+    name: 'gETH',
+    symbol: 'GETH',
     color: '#000000',
     icon: icons.gweth,
     aIcon: icons.gweth,
