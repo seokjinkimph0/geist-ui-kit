@@ -22,6 +22,7 @@ export const STABLE_ASSETS = [
   'FRAX',
   'USDP',
   'FEI',
+  'MIM',
 ];
 
 export const isAssetStable = (assetSymbol: string) => {

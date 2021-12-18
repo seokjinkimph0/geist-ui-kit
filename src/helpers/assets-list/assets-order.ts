@@ -46,6 +46,7 @@ export const assetsOrder = [
   'REP',
   'SNX',
   'ZRX',
+  'MIM',
 
   'GDAI',
   'GETH',
@@ -53,6 +54,8 @@ export const assetsOrder = [
   'GWBTC',
   'GFUSDT',
   'GUSDC',
+  'GCRV',
+  'GMIM',
 
   'BDAI',
   'BETH',

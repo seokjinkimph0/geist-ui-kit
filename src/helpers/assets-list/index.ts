@@ -373,6 +373,71 @@ export const assetsList: Asset[] = [
     aIcon: icons.bweth,
   },
 
+  // gTokens
+  {
+    name: 'gFTM',
+    symbol: 'GFTM',
+    color: '#57B3E4',
+    icon: icons.bftm,
+    aIcon: icons.bftm,
+  },
+  {
+    name: 'gDAI',
+    symbol: 'GDAI',
+    color: '#f7b14a',
+    icon: icons.gdai,
+    aIcon: icons.gdai,
+  },
+  {
+    name: 'gUSDC',
+    symbol: 'GUSDC',
+    color: '#2775ca',
+    icon: icons.gusdc,
+    aIcon: icons.gusdc,
+  },
+  {
+    name: 'gFUSDT',
+    symbol: 'GFUSDT',
+    color: '#4db196',
+    icon: icons.gusdt,
+    aIcon: icons.gusdt,
+  },
+  {
+    name: 'gWBTC',
+    symbol: 'GWBTC',
+    color: '#ff7600',
+    icon: icons.gwbtc,
+    aIcon: icons.gwbtc,
+  },
+  {
+    name: 'gWETH',
+    symbol: 'GWETH',
+    color: '#000000',
+    icon: icons.gweth,
+    aIcon: icons.gweth,
+  },
+  {
+    name: 'gCRV',
+    symbol: 'GCRV',
+    color: '#ff1e00',
+    icon: icons.gcrv,
+    aIcon: icons.gcrv,
+  },
+  {
+    name: 'gMIM',
+    symbol: 'GMIM',
+    color: '#7b79f7',
+    icon: icons.gmim,
+    aIcon: icons.gmim,
+  },
+  {
+    name: 'gLINK',
+    symbol: 'GLINK',
+    color: '#2463ff',
+    icon: icons.glink,
+    aIcon: icons.glink,
+  },
+
   // uniswap v1 market
   {
     name: 'DAI',

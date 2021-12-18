@@ -52,6 +52,16 @@ import busdc from './bUSDC.svg';
 import busdt from './bUSDT.svg';
 import bwbtc from './bWBTC.svg';
 import bweth from './bWETH.svg';
+import gdai from './gDAI.svg';
+import gusdc from './gUSDC.svg';
+import gusdt from './gUSDT.svg';
+import gwbtc from './gWBTC.svg';
+import gweth from './gWETH.svg';
+import gcrv from './gCRV.svg';
+import gmim from './gMIM.svg';
+import gftm from './gFTM.svg';
+import mim from './MIM.svg';
+import glink from './gLINK.svg';
 
 interface Images {
   [name: string]: string;
@@ -112,4 +122,14 @@ export default {
   busdt,
   bwbtc,
   bweth,
+  gdai,
+  gusdc,
+  gusdt,
+  gwbtc,
+  gweth,
+  gftm,
+  gcrv,
+  gmim,
+  glink,
+  mim,
 } as Images;
