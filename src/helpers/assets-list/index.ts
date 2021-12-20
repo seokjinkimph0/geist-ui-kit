@@ -438,6 +438,14 @@ export const assetsList: Asset[] = [
     aIcon: icons.glink,
   },
 
+  {
+    name: 'MIM',
+    symbol: 'MIM',
+    color: '#7b79f7',
+    icon: icons.mim,
+    aIcon: icons.mim,
+  },
+
   // uniswap v1 market
   {
     name: 'DAI',
