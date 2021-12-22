@@ -63,6 +63,7 @@ export const assetsOrder = [
   'BWBTC',
   'BUSDT',
   'BUSDC',
+  'BMIM',
 
   'UNIDAIUSDC',
   'UNIUSDCDAI',

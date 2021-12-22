@@ -372,6 +372,13 @@ export const assetsList: Asset[] = [
     icon: icons.bweth,
     aIcon: icons.bweth,
   },
+  {
+    name: 'bMIM',
+    symbol: 'BMIM',
+    color: '#7b79f7',
+    icon: icons.bmim,
+    aIcon: icons.bmim,
+  },
 
   // gTokens
   {
