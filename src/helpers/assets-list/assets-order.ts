@@ -64,6 +64,7 @@ export const assetsOrder = [
   'BUSDT',
   'BUSDC',
   'BMIM',
+  'BLINK',
 
   'UNIDAIUSDC',
   'UNIUSDCDAI',

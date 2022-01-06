@@ -53,6 +53,7 @@ import busdt from './bUSDT.svg';
 import bwbtc from './bWBTC.svg';
 import bweth from './bWETH.svg';
 import bmim from './bMIM.svg';
+import blink from './bLINK.svg';
 import gdai from './gDAI.svg';
 import gusdc from './gUSDC.svg';
 import gusdt from './gUSDT.svg';
@@ -124,6 +125,7 @@ export default {
   bwbtc,
   bweth,
   bmim,
+  blink,
   gdai,
   gusdc,
   gusdt,

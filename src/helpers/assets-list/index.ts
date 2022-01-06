@@ -379,6 +379,13 @@ export const assetsList: Asset[] = [
     icon: icons.bmim,
     aIcon: icons.bmim,
   },
+  {
+    name: 'bLINK',
+    symbol: 'BLINK',
+    color: '#2463ff',
+    icon: icons.blink,
+    aIcon: icons.blink,
+  },
 
   // gTokens
   {
