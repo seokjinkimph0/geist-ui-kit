@@ -64,6 +64,20 @@ import gmim from './gMIM.svg';
 import gftm from './gFTM.svg';
 import glink from './gLINK.svg';
 import mim from './MIM.svg';
+import baave from './bAAVE.svg';
+import balpha from './bALPHA.svg';
+import bbifi from './bBIFI.svg';
+import bfrax from './bFRAX.svg';
+import bfxs from './bFXS.svg';
+import bjoe from './bJOE.svg';
+import bluna from './bLUNA.svg';
+import bqi from './bQI.svg';
+import bspell from './bSPELL.svg';
+import btusd from './bTUSD.svg';
+import busdce from './bUSDC.e.svg';
+import bust from './bUST.svg';
+import bxava from './bXAVA.svg';
+import bcrv from './bCRV.svg';
 
 interface Images {
   [name: string]: string;
@@ -126,6 +140,20 @@ export default {
   bweth,
   bmim,
   blink,
+  baave,
+  balpha,
+  bbifi,
+  bfrax,
+  bfxs,
+  bjoe,
+  bluna,
+  bqi,
+  bspell,
+  btusd,
+  busdce,
+  bust,
+  bxava,
+  bcrv,
   gdai,
   gusdc,
   gusdt,
