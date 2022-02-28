@@ -23,6 +23,7 @@ export const STABLE_ASSETS = [
   'USDP',
   'FEI',
   'MIM',
+  'UST',
 ];
 
 export const isAssetStable = (assetSymbol: string) => {
