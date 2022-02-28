@@ -78,6 +78,16 @@ import busdce from './bUSDC.e.svg';
 import bust from './bUST.svg';
 import bxava from './bXAVA.svg';
 import bcrv from './bCRV.svg';
+import alpha from './alpha.svg';
+import joe from './joe.svg';
+import bifi from './bifi.svg';
+import spell from './spell.svg';
+import ust from './ust.svg';
+import fxs from './fxs.svg';
+import luna from './luna.svg';
+import qi from './qi.svg';
+import usdce from './usdc.e.svg';
+import xava from './xava.svg';
 
 interface Images {
   [name: string]: string;
@@ -164,4 +174,14 @@ export default {
   gmim,
   glink,
   mim,
+  bifi,
+  joe,
+  spell,
+  ust,
+  alpha,
+  fxs,
+  luna,
+  qi,
+  usdce,
+  xava,
 } as Images;
